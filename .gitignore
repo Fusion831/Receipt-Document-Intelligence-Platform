@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+#Datasets
+SROIE2019
 # Distribution / packaging
 .Python
 build/
